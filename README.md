@@ -3,7 +3,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-rigel&show_icons=true&count_private=true&theme=dark)
 
-I’m a proficient Full Stack Developer with more than 8 years of experience in web development, 
+I’m a proficient Full Stack Developer with more than 10 years of experience in web development, 
 mobile app development, project management, Server software maintenance, AWS, SEO and 
 SEM. I’m self-motivated, with a confidence to take up any challenge and accomplish it, with 
 respect to my skill set. Further I can develop in many languages, which makes it easier for me to 
