@@ -69,11 +69,6 @@ Throughout my career, I have honed a strong technical skill set in Golang, Java 
 ![NFT](https://img.shields.io/badge/-NFT-0ACF83?style=flat-square&logo=ethereum&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat-square&logo=google&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blue-rigel&show_icons=true&count_private=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-rigel&layout=compact&theme=tokyonight)
-
 ## 🌱 Currently Exploring
 - Advanced Cloud Architecture
 - Microservices Orchestration
