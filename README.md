@@ -7,11 +7,9 @@
 
 ## 💫 About Me
 
-Senior Software Engineer with 8+ years of experience in web development, mobile app development, cloud infrastructure, and DevOps. Currently working at SPH Media, previously at GovTech Singapore, News Corp Australia, Unios, and DBS Bank.
+I am a results-driven Lead Engineer and Project Manager with over 9 years of comprehensive experience in software development, DevOps, and cloud architecture. My expertise lies in building highly scalable, secure, and cloud-native applications for both enterprise and government sectors. I am passionate about leveraging cloud computing, security, and enterprise architecture to drive digital transformation.
 
-I build high-performance, user-friendly applications using modern technologies and best practices. My expertise spans front-end, back-end, cloud services, and SEO optimization.
-
-As a polyglot developer, I'm passionate about exploring various programming languages and technologies, constantly expanding my toolkit to tackle diverse challenges in the most effective way.
+Throughout my career, I have honed a strong technical skill set in Golang, Java Spring Boot, React.js, AWS, Terraform, and Kubernetes. I am recognized for my ability to lead teams, optimize system performance, and architect robust authentication solutions.
 
 ## 🚀 Technical Skills
 
@@ -77,10 +75,10 @@ As a polyglot developer, I'm passionate about exploring various programming lang
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-rigel&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently Exploring
-- OpenShift
-- Web3 Technologies
-- Non-Fungible Tokens (NFTs)
-- Blockchain Development
+- Advanced Cloud Architecture
+- Microservices Orchestration
+- Enterprise-Grade Security Solutions
+
 
 ## 📫 How to Reach Me
 - 📧 Email: greatbattlewar@gmail.com
